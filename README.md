@@ -3,8 +3,8 @@
 - 👩🏻‍🎓 Atualmente sou estudante de graduação em ciência da computação na Universidade Federal de Campina Grande.
 - 📖 Na área de programação no momento estou estudando Estrutura de Dados e Algoritmo, em conjunto com teoria dos grafos.
 - 😄 Pronomes: ele/dele
-- 🥸 Meu hobbie favorito é leitura, você pode acompanhar minhas leituras no meu skoob:<br>
-    <a href="https://www.skoob.com.br/usuario/7411651" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a> 
+- 🥸 Meu hobbie favorito é leitura, você pode acompanhar minhas leituras no meu goodreads:<br>
+    <a href="https://www.goodreads.com/user/show/122194488-lucas-leones" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a> 
 - 🤖 Ou melhor, pode acompanhar o que eu estou fazendo na universidade pelo meu LinkedIn:<br>
     <a href="https://www.linkedin.com/in/lucas-leones-costa-dos-santos-1a918a228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
