@@ -1,7 +1,7 @@
 ### Hi there, i'm Lucas! 👋
 
 - 👩🏻‍🎓 Atualmente sou estudante de graduação em ciência da computação na Universidade Federal de Campina Grande.
-- 📖 Na área de programação no momento estou estudando Estrutura de Dados e Algoritmo, em conjunto com teoria dos grafos.
+- 📖 Na área de programação no momento estou estudando majoritariamente infraestrutura dos computadores.
 - 😄 Pronomes: ele/dele
 - 🥸 Meu hobbie favorito é leitura, você pode acompanhar minhas leituras no meu goodreads:<br>
     <a href="https://www.goodreads.com/user/show/122194488-lucas-leones" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a> 
